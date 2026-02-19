@@ -3,7 +3,8 @@ title: "Next.jsはもう要らない？TanStack Startに入門してみた"
 emoji: "🏎️"
 type: "tech"
 topics: ["tanstackstart", "nextjs", "react", "typescript"]
-published: false
+published: true
+published_at: 2026-02-20 08:00
 ---
 
 TanStack Startが2025年秋にv1 RCを出した。
